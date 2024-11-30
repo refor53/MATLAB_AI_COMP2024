@@ -1,5 +1,4 @@
-# MATLAB_AI_COMP2024
-# ONNX to MATLAB Converter
+# MATLAB_AI_COMP2024, ViT model ONNX to MATLAB Converter
 
 이 스크립트는 ONNX 형식의 ViT 모델을 MATLAB에서 사용할 수 있는 .mat 파일로 변환합니다.
 
